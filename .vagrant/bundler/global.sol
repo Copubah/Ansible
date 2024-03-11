@@ -1,0 +1,1 @@
+{"dependencies":[["rubyhacks",[">= 0.1.0"]],["hostmanager",["= 1.2.2"]],["vagrant-hostmanager",["= 1.8.10"]]],"checksum":"d3b670d56faf11def9851f652f546074bae01abe8dd69dc5d7e39892316478ad","vagrant_version":"2.4.1"}
